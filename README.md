@@ -2,7 +2,7 @@
 
 Botline Bling is a simple web app where you can chat with an AI therapist in a calm, supportive environment. It’s designed for anyone who wants a safe place to talk, reflect, and feel heard: anytime, anywhere.
 
-[# Demo Video!]([url](https://www.youtube.com/watch?v=wjhCqigRCSs))
+# [Demo Video!](https://www.youtube.com/watch?v=wjhCqigRCSs)
 
 # What This App Does:
 - You can sign up or log in with a username and password.
